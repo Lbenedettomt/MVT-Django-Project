@@ -5,10 +5,10 @@
 </p>
 
 ### Tópicos :large_blue_diamond:
-**:small_blue_diamond: [Checkpoint :bookmark_tabs:](#sprint-bookmark_tabs)**  
+**:small_blue_diamond: [Checkpoint :bookmark_tabs:](#Checkpoint-bookmark_tabs)**  
 **:small_blue_diamond: [Sobre :book:](#sobre-book)**  
 **:small_blue_diamond: [Progresso :arrow_up:](#progresso-arrow_up)**  
-**:small_blue_diamond: [Integrantes 3ECA INH :handshake:](#integrantes-3eca-inh-handshake)**
+**:small_blue_diamond: [Integrantes do grupo 3ECA :octocat:](#integrantes-do-grupo-3eca-octocat)**
 
 ## Checkpoint :bookmark_tabs:
 Entregável do Checkpoint 2 de *Engenharia de software*, professor:
@@ -49,7 +49,7 @@ Entregável do Checkpoint 2 de *Engenharia de software*, professor:
 - [X] Armazenamento no database
 - [X] Form funcional para enviar dados
 
-## Integrantes 3ECA INH :octocat:
+## Integrantes do grupo 3ECA :octocat:
 - Luigi Di Benedetto Maximo Torres - 86335
 - Bruno rocha de carvalho - 84253
 - Cintia Duarte da Silva - 84046
