@@ -1,6 +1,6 @@
 <h1 align="center">MVT-Django-Project</h1>
 <p align="center">
-    <img src="https://img2.freepng.es/20180711/rtc/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913f29027.4888902515313042119936.jpg" alt="logo" width="400"><br>
+    <img src="https://icts.io/wp-content/uploads/2020/04/django_final.png" alt="logo" width="400"><br>
     <img src="http://img.shields.io/badge/status-finalizado-brightgreen?style=for-the-badge" alt="Status">
 </p>
 
@@ -59,5 +59,8 @@ Entregável do Checkpoint 2 de *Engenharia de software*, professor:
     <a href="./LICENSE" target="_blank">
         <img src="https://img.shields.io/github/license/lcesadm/inh-gpsar-web?style=for-the-badge" alt="MIT LICENSE">
     </a>
+</p>
+
+<p align="center">
     Copyright © 2022 - Lbenedettomt
 </p>
