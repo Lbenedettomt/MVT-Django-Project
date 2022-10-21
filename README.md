@@ -54,6 +54,7 @@ Entregável do Checkpoint 2 de *Engenharia de software*, professor:
 - Bruno rocha de carvalho - 84253
 - Cintia Duarte da Silva - 84046
 - Caio Henrique Azar de Moura - 85771
+- Moises Isaias Lima Quinelen - 86427
 
 <p align="center">
     <a href="./LICENSE" target="_blank">
